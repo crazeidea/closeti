@@ -1,0 +1,12 @@
+{
+  "name": "closeti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:crazeidea/closeti.git",
+  "author": "최강훈 <choi.robin93@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "client"
+  ]
+}
